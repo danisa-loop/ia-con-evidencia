@@ -8,13 +8,8 @@ la corrés y comprobás las afirmaciones con tus propios ojos.
 
 | # | Post | Notebook | Papers |
 |---|------|----------|--------|
-| 01 | ¿Qué es realmente un embedding? (y por qué hereda nuestros sesgos) | [`notebooks/01_embeddings_y_sesgos.ipynb`](notebooks/01_embeddings_y_sesgos.ipynb) | [Mikolov 2013](https://arxiv.org/abs/1301.3781) · [Bolukbasi 2016](https://arxiv.org/abs/1607.06520) |
-
-| 03 | Auditá tu palabra de control antes de usarla | [`notebooks/03_auditar_controles.ipynb`](notebooks/03_auditar_controles.ipynb) | [Caliskan 2017](https://arxiv.org/abs/1608.07187) · [Gonen & Goldberg 2019](https://arxiv.org/abs/1903.03862) |
-
+| 01 | La T de ChatGPT y dónde vive "banco" | [`notebooks/02_banco_contextual.ipynb`](notebooks/02_banco_contextual.ipynb) | [Mikolov 2013](https://arxiv.org/abs/1301.3781) · [Vaswani 2017](https://arxiv.org/abs/1706.03762) · [Devlin 2018](https://arxiv.org/abs/1810.04805) |
 | 04 | RAG mínimo: las tres funciones, sin frameworks | [`notebooks/04_rag_minimo.ipynb`](notebooks/04_rag_minimo.ipynb) | [Lewis 2020](https://arxiv.org/abs/2005.11401) · [Liu 2023](https://arxiv.org/abs/2307.03172) |
-
-| 05 | Evaluación mínima: golden set, métricas y LLM-como-juez | [`notebooks/05_eval_minima.ipynb`](notebooks/05_eval_minima.ipynb) | [Zheng 2023](https://arxiv.org/abs/2306.05685) |
 
 
 
