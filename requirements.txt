@@ -1,0 +1,9 @@
+gensim>=4.3
+matplotlib>=3.8
+numpy<2.0
+scipy<1.13
+jupyterlab
+transformers>=4.40
+torch>=2.2
+pandas>=2.0
+scikit-learn>=1.4
